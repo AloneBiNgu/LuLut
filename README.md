@@ -30,7 +30,7 @@ A full-stack application to assist communities during flood emergencies.
 3.  **Run the Application**
     To run both backend and frontend concurrently:
     ```bash
-    npm start
+    npm run start
     ```
 
     *   Frontend: http://localhost:5173
